@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Personal Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Mar 2025 17:56:50 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 19 Mar 2025 17:56:50 -0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Hey all! Welcome to my blog! My name is Zach but I also go by Abyss! I hope you all enjoy reading all about my projects and such!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
